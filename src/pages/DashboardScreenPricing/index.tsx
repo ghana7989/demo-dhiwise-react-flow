@@ -351,7 +351,7 @@ const DashboardScreenPricingPage: React.FC = () => {
                             />
                           }
                           isMulti={false}
-                          name="group349"
+                          name="group2035"
                           options={howCanIMakeThePaymentOptionsList}
                           isSearchable={false}
                           placeholder="How can I make the payment?"
@@ -370,7 +370,7 @@ const DashboardScreenPricingPage: React.FC = () => {
                             />
                           }
                           isMulti={false}
-                          name="group350"
+                          name="group2036"
                           options={
                             howMuchTimeDoesItTakeToReceiveTheOrderOptionsList
                           }
@@ -391,7 +391,7 @@ const DashboardScreenPricingPage: React.FC = () => {
                             />
                           }
                           isMulti={false}
-                          name="group351"
+                          name="group2037"
                           options={canIResellTheProductsOptionsList}
                           isSearchable={false}
                           placeholder="Can I resell the products?"
@@ -410,7 +410,7 @@ const DashboardScreenPricingPage: React.FC = () => {
                             />
                           }
                           isMulti={false}
-                          name="group352"
+                          name="group2038"
                           options={whereDoIFindTheShippingDetailsOptionsList}
                           isSearchable={false}
                           placeholder="Where do I find the shipping details?"

@@ -261,7 +261,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                             />
                           }
                           isMulti={false}
-                          name="group272"
+                          name="group1958"
                           options={pagesOptionsList}
                           isSearchable={false}
                           placeholder="Pages"
@@ -371,7 +371,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                               />
                             }
                             isMulti={false}
-                            name="group277"
+                            name="group1963"
                             options={ecommerceOptionsList}
                             isSearchable={false}
                             placeholder="Ecommerce"
@@ -402,7 +402,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                               />
                             }
                             isMulti={false}
-                            name="group278"
+                            name="group1964"
                             options={authenticationOptionsList}
                             isSearchable={false}
                             placeholder="Authentication"
@@ -448,7 +448,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                                 />
                               }
                               isMulti={false}
-                              name="group279"
+                              name="group1965"
                               options={basicOptionsList}
                               isSearchable={false}
                               placeholder="Basic"
@@ -479,7 +479,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                                 />
                               }
                               isMulti={false}
-                              name="group280"
+                              name="group1966"
                               options={componentsOptionsList}
                               isSearchable={false}
                               placeholder="Components"
@@ -510,7 +510,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                                 />
                               }
                               isMulti={false}
-                              name="group281"
+                              name="group1967"
                               options={changelogOptionsList}
                               isSearchable={false}
                               placeholder="Changelog"
@@ -1587,7 +1587,7 @@ const DashboardScreenChartsPage: React.FC = () => {
                                 className="absolute bg-cover bg-no-repeat flex flex-col md:h-auto h-full inset-[0] items-center justify-center m-auto p-[57px] md:px-10 sm:px-5 w-[716px]"
                                 style={{
                                   backgroundImage:
-                                    "url('images/img_group69.svg')",
+                                    "url('images/img_group1755.svg')",
                                 }}
                               >
                                 <Img

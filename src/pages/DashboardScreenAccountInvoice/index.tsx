@@ -134,7 +134,7 @@ const DashboardScreenAccountInvoicePage: React.FC = () => {
                             />
                           }
                           isMulti={false}
-                          name="group389"
+                          name="group2075"
                           options={pagesOptionsList}
                           isSearchable={false}
                           placeholder="Pages"
@@ -244,7 +244,7 @@ const DashboardScreenAccountInvoicePage: React.FC = () => {
                               />
                             }
                             isMulti={false}
-                            name="group394"
+                            name="group2080"
                             options={ecommerceOptionsList}
                             isSearchable={false}
                             placeholder="Ecommerce"
@@ -275,7 +275,7 @@ const DashboardScreenAccountInvoicePage: React.FC = () => {
                               />
                             }
                             isMulti={false}
-                            name="group395"
+                            name="group2081"
                             options={authenticationOptionsList}
                             isSearchable={false}
                             placeholder="Authentication"
@@ -321,7 +321,7 @@ const DashboardScreenAccountInvoicePage: React.FC = () => {
                                 />
                               }
                               isMulti={false}
-                              name="group396"
+                              name="group2082"
                               options={basicOptionsList}
                               isSearchable={false}
                               placeholder="Basic"
@@ -352,7 +352,7 @@ const DashboardScreenAccountInvoicePage: React.FC = () => {
                                 />
                               }
                               isMulti={false}
-                              name="group397"
+                              name="group2083"
                               options={componentsOptionsList}
                               isSearchable={false}
                               placeholder="Components"
@@ -383,7 +383,7 @@ const DashboardScreenAccountInvoicePage: React.FC = () => {
                                 />
                               }
                               isMulti={false}
-                              name="group398"
+                              name="group2084"
                               options={changelogOptionsList}
                               isSearchable={false}
                               placeholder="Changelog"

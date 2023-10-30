@@ -251,7 +251,7 @@ const DashboardScreenWidgetsPage: React.FC = () => {
                                       className="bg-cover bg-no-repeat flex flex-col h-[72px] items-center justify-start w-[93%] md:w-full"
                                       style={{
                                         backgroundImage:
-                                          "url('images/img_group154.svg')",
+                                          "url('images/img_group1840.svg')",
                                       }}
                                     >
                                       <Img

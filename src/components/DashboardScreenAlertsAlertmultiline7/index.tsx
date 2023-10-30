@@ -4,9 +4,9 @@ import { Img, Text } from "components";
 
 type DashboardScreenAlertsAlertmultiline7Props = Omit<
   React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>,
-  "titlehereThree" | "userdescription"
+  "usertitle" | "userdescription"
 > &
-  Partial<{ titlehereThree: string; userdescription: string }>;
+  Partial<{ usertitle: string; userdescription: string }>;
 
 const DashboardScreenAlertsAlertmultiline7: React.FC<
   DashboardScreenAlertsAlertmultiline7Props
@@ -28,7 +28,7 @@ const DashboardScreenAlertsAlertmultiline7: React.FC<
                 className="text-base text-black-900 w-auto"
                 size="txtHelveticaBold16Black900"
               >
-                {props?.titlehereThree}
+                {props?.usertitle}
               </Text>
             </div>
             <div className="flex flex-col items-start justify-start">
@@ -52,7 +52,7 @@ const DashboardScreenAlertsAlertmultiline7: React.FC<
 };
 
 DashboardScreenAlertsAlertmultiline7.defaultProps = {
-  titlehereThree: "Title Here",
+  usertitle: "Title Here",
   userdescription: "Description Here",
 };
 

@@ -923,9 +923,7 @@ const DashboardScreenReportsPage: React.FC = () => {
                                 Manager
                               </Text>
                             </div>
-                            <div className="flex flex-col items-center justify-start md:ml-[0] ml-[186px] w-[5%] md:w-full">
-                              <DashboardScreenReportsRowellipseone className="flex flex-row items-center justify-start w-auto" />
-                            </div>
+                            <DashboardScreenReportsRowellipseone className="flex flex-col items-center justify-start md:ml-[0] ml-[186px] w-[5%] md:w-full" />
                             <div className="flex flex-col items-center justify-start md:ml-[0] ml-[164px]">
                               <Text
                                 className="text-center text-gray-600 text-sm"
@@ -984,9 +982,7 @@ const DashboardScreenReportsPage: React.FC = () => {
                                 Programmer
                               </Text>
                             </div>
-                            <div className="flex flex-col items-center justify-start ml-40 md:ml-[0] w-[5%] md:w-full">
-                              <DashboardScreenReportsRowellipseone className="flex flex-row items-center justify-start w-auto" />
-                            </div>
+                            <DashboardScreenReportsRowellipseone className="flex flex-col items-center justify-start ml-40 md:ml-[0] w-[5%] md:w-full" />
                             <div className="flex flex-col items-center justify-start md:ml-[0] ml-[170px]">
                               <Text
                                 className="text-center text-gray-600 text-sm"
@@ -1045,12 +1041,7 @@ const DashboardScreenReportsPage: React.FC = () => {
                                 Executive
                               </Text>
                             </div>
-                            <div className="flex flex-col items-center justify-start md:ml-[0] ml-[178px] w-[5%] md:w-full">
-                              <DashboardScreenReportsRowellipseone
-                                className="flex flex-row items-center justify-start w-auto"
-                                usertext="Neutral"
-                              />
-                            </div>
+                            <DashboardScreenReportsRowellipseone className="flex flex-col items-center justify-start md:ml-[0] ml-[178px] w-[5%] md:w-full" />
                             <div className="flex flex-col items-center justify-start md:ml-[0] ml-[170px]">
                               <Text
                                 className="text-center text-gray-600 text-sm"
@@ -1109,9 +1100,7 @@ const DashboardScreenReportsPage: React.FC = () => {
                                 Manager
                               </Text>
                             </div>
-                            <div className="flex flex-col items-center justify-start md:ml-[0] ml-[186px] w-[5%] md:w-full">
-                              <DashboardScreenReportsRowellipseone className="flex flex-row items-center justify-start w-auto" />
-                            </div>
+                            <DashboardScreenReportsRowellipseone className="flex flex-col items-center justify-start md:ml-[0] ml-[186px] w-[5%] md:w-full" />
                             <div className="flex flex-col items-center justify-start md:ml-[0] ml-[157px]">
                               <Text
                                 className="text-center text-gray-600 text-sm"
@@ -1170,12 +1159,7 @@ const DashboardScreenReportsPage: React.FC = () => {
                                 Programmer
                               </Text>
                             </div>
-                            <div className="flex flex-col items-center justify-start ml-40 md:ml-[0] w-[6%] md:w-full">
-                              <DashboardScreenReportsRowellipseone
-                                className="flex flex-row items-center justify-start w-auto"
-                                usertext="Negative"
-                              />
-                            </div>
+                            <DashboardScreenReportsRowellipseone className="flex flex-col items-center justify-start ml-40 md:ml-[0] w-[6%] md:w-full" />
                             <div className="flex flex-col items-center justify-start md:ml-[0] ml-[162px]">
                               <Text
                                 className="text-center text-gray-600 text-sm"
@@ -1234,9 +1218,7 @@ const DashboardScreenReportsPage: React.FC = () => {
                                 Designer
                               </Text>
                             </div>
-                            <div className="flex md:flex-1 flex-col items-center justify-start md:ml-[0] ml-[184px] w-[5%] md:w-full">
-                              <DashboardScreenReportsRowellipseone className="flex flex-row items-center justify-start w-auto" />
-                            </div>
+                            <DashboardScreenReportsRowellipseone className="flex md:flex-1 flex-col items-center justify-start md:ml-[0] ml-[184px] w-[5%] md:w-full" />
                             <div className="flex flex-col items-center justify-start md:ml-[0] ml-[172px]">
                               <Text
                                 className="text-center text-gray-600 text-sm"

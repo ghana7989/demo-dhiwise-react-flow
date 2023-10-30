@@ -4,9 +4,9 @@ import { Img, Text } from "components";
 
 type DashboardScreenAlertsAlertonelinelProps = Omit<
   React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>,
-  "title" | "description"
+  "titlehere" | "descriptionhereOne"
 > &
-  Partial<{ title: string; description: string }>;
+  Partial<{ titlehere: string; descriptionhereOne: string }>;
 
 const DashboardScreenAlertsAlertonelinel: React.FC<
   DashboardScreenAlertsAlertonelinelProps
@@ -29,13 +29,13 @@ const DashboardScreenAlertsAlertonelinel: React.FC<
                   className="text-base text-black-900 w-auto"
                   size="txtHelveticaBold16Black900"
                 >
-                  {props?.title}
+                  {props?.titlehere}
                 </Text>
                 <Text
                   className="text-base text-black-900 w-auto"
                   size="txtHelvetica16Black900"
                 >
-                  {props?.description}
+                  {props?.descriptionhereOne}
                 </Text>
               </div>
             </div>
@@ -52,8 +52,8 @@ const DashboardScreenAlertsAlertonelinel: React.FC<
 };
 
 DashboardScreenAlertsAlertonelinel.defaultProps = {
-  title: "Title Here",
-  description: "Description Here",
+  titlehere: "Title Here",
+  descriptionhereOne: "Description Here",
 };
 
 export default DashboardScreenAlertsAlertonelinel;

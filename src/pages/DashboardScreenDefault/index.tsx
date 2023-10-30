@@ -371,7 +371,8 @@ const DashboardScreenDefaultPage: React.FC = () => {
                             <div
                               className="bg-cover bg-no-repeat flex md:flex-1 flex-col h-[250px] items-center justify-start w-[96%] md:w-full"
                               style={{
-                                backgroundImage: "url('images/img_group9.svg')",
+                                backgroundImage:
+                                  "url('images/img_group1695.svg')",
                               }}
                             >
                               <Img
@@ -1002,7 +1003,10 @@ const DashboardScreenDefaultPage: React.FC = () => {
                     src="images/img_ioniconppersondefault.svg"
                     alt="ioniconppersond"
                   />
-                  <a href="javascript:" className="text-gray-600 text-xs w-10">
+                  <a
+                    href="javascript:"
+                    className="ml-[0] text-gray-600 text-xs w-10"
+                  >
                     <Text size="txtHelveticaBold12Bluegray400">Sign In</Text>
                   </a>
                 </div>
